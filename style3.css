@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(243, 172, 228);
+}
+
+h1{
+    font-family: "Sofia", sans-serif;
+    color: darkmagenta;
+}
+img {
+    width: 300px;
+    height: 320px;
+}
+footer{
+    background-color: rgb(243, 134, 219);
+}
+section{
+    background-color: rgb(230, 208, 225);
+}
